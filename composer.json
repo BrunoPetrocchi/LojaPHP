@@ -1,0 +1,17 @@
+{
+    "name": "macke/webstore",
+    "description": "Loja online",
+    "type": "project",
+    "authors": [
+        {
+            "name": "BrunoPetrocchi",
+            "email": "petrocchi@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "core\\" : "core/"
+        }
+    }
+}
